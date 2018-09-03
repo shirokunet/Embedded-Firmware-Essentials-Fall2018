@@ -9,14 +9,14 @@
 
 [![Watch the Assignment 1 Demo Video](https://i.ytimg.com/vi/i1oz08r7g78/2.jpg?time=1535991368371)](https://youtu.be/i1oz08r7g78)
 
-[//]: # "## Week 2
+[//]: # "## Week 2"
 
-## Week 3
+[//]: # "## Week 3"
 
-## Week 4
+[//]: # "## Week 4"
 
-## Week 5
+[//]: # "## Week 5"
 
-## Week 6
+[//]: # "## Week 6"
 
-## Week 7"
+[//]: # "## Week 7"
