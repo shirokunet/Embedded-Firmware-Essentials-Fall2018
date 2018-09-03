@@ -5,6 +5,9 @@
 
 - Lect1_HelloWorld
 
+- Assignment 1, Problem 3 Demo Video
+[![Watch the Assignment 1 Demo Video]](https://youtu.be/i1oz08r7g78)
+
 ## Week 2
 
 ## Week 3
