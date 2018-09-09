@@ -19,6 +19,11 @@
 
 - Lect2_PortOut
 
+- Assignment 2, Problem 4 Demo Video
+
+[![Watch the Assignment 2 Demo Video](https://i.ytimg.com/vi/evdr8Pq520Q/1.jpg?time=1536530948235)](https://youtu.be/evdr8Pq520Q)
+
+
 [//]: # "## Week 3"
 
 [//]: # "## Week 4"
