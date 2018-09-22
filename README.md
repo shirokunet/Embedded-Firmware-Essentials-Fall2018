@@ -33,3 +33,7 @@
 [//]: # "## Week 6"
 
 [//]: # "## Week 7"
+
+## Week 3
+
+- Lect3_PWMnADC
