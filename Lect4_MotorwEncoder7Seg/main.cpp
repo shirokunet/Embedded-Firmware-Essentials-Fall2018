@@ -63,8 +63,7 @@ void ISR_B()
 void calcRPM(void)
 {
 	cur_cnt = pulses;
-//	rpm = (cur_cnt-prev_cnt)/EncoderCntsperRev/(SampleTime_us*1.e-6)*60;
-	rpm = (cur_cnt-prev_cnt);
+	rpm = (cur_cnt-prev_cnt)/EncoderCntsperRev/(SampleTime_us*1.e-6)*60;
 	prev_cnt = cur_cnt;
 }
 
@@ -95,9 +94,7 @@ int main()
 
 	while(1)
 	{
-		pc.printf("%d %d, %d %d RPM\r\n",rpm, cur_cnt, prev_cnt, pulses);
-		wait(1.);
-//		Dec7Segment(rpm);
+		Dec7Segment(rpm);
 	}
 
 }
