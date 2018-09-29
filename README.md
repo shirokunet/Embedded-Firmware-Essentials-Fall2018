@@ -48,3 +48,4 @@
 
 - Lect4_MotorwEncoder7Seg
 
+- Lect4_MotorAltDemo
