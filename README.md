@@ -37,3 +37,14 @@
 ## Week 3
 
 - Lect3_PWMnADC
+
+## Week 4
+
+- Lect4_2LEDwait
+
+- Lect4_2LEDTimer
+
+- Lect4_2LEDTicker
+
+- Lect4_MotorwEncoder7Seg
+
