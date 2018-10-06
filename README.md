@@ -49,3 +49,11 @@
 - Lect4_MotorwEncoder7Seg
 
 - Lect4_MotorAltDemo
+
+## Week 5
+
+- Lect5_ADXL345
+
+- Lect5_TMP102
+
+- Lect5_2x16LCD
