@@ -57,3 +57,11 @@
 - Lect5_TMP102
 
 - Lect5_2x16LCD
+
+## Week 6
+
+- Lect6_Flash_Demo
+
+- Lect6_SerialInterrupt
+
+- Lect6_ADXL345_Modular
