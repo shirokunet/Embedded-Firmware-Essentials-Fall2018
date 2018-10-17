@@ -65,3 +65,7 @@
 - Lect6_SerialInterrupt
 
 - Lect6_ADXL345_Modular
+
+## Bonus Code
+
+- Demo_NeoPixel (Provides code to re-purpose SPI MOSI to drive a NeoPixel Protocal)
