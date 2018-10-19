@@ -66,6 +66,16 @@
 
 - Lect6_ADXL345_Modular
 
+## Week 7
+
+- Lect7_GPIO_TIMER
+
+- Lect7_ADC_PWM
+
+- Lect7_Watchdog_Timer
+
+- Lect7_Spek_Buffer
+
 ## Bonus Code
 
 - Demo_NeoPixel (Provides code to re-purpose SPI MOSI to drive a NeoPixel Protocal)
